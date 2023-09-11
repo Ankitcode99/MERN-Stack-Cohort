@@ -1,0 +1,27 @@
+[
+    {
+        "itemName": "iPhone",
+        "category": "electronics",
+        "price": 45000
+    },
+    {
+        "itemName": "iPod",
+        "category": "electronics",
+        "price": 5000
+    },
+    {
+        "itemName": "banana",
+        "category": "grocery",
+        "price": 40
+    },
+    {
+        "itemName": "carrot",
+        "category": "grocery",
+        "price": 50
+    },
+    {
+        "itemName": "tshirt",
+        "category": "clothing",
+        "price": 450
+    }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "js-based",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha Tests/*.js",
+    "test-anagram":" mocha test/is-anagram.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
